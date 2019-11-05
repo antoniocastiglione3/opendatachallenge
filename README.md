@@ -5,3 +5,6 @@ Facial Inc. is a well-known technology company including approximate 2000 employ
 You are required to use any appropriate methods to present potential reasons for the turnover of Facial Inc. 
 
 Notice that the number of leave is less than the number of current employees.
+
+
+All project is in IPYNB file
