@@ -7,4 +7,4 @@ You are required to use any appropriate methods to present potential reasons for
 Notice that the number of leave is less than the number of current employees.
 
 
-All project is in IPYNB file
+ALL PROJECT IS ILLUSTRATO IN CUEBIQ_Turnover_Analysis.IPYNB file
